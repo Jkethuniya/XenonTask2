@@ -11,6 +11,9 @@
 
 ## Command Specifications
 
+ **Manual Page:**
+  - Create a detailed manual page for `sysopctl` so users can access full documentation using `man sysopctl`.
+    ![List All Service list]([https://res.cloudinary.com/dzqcqce5x/image/upload/v1729609796/WhatsApp_Image_2024-10-22_at_19.16.34_od2voi.jpg](https://res.cloudinary.com/dzqcqce5x/image/upload/v1729610795/WhatsApp_Image_2024-10-22_at_20.56.03_qodamm.jpg))
 
 
 - **Help Option:**
